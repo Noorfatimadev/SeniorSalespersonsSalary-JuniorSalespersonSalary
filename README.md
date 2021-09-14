@@ -1,0 +1,2 @@
+# SeniorSalespersonsSalary-JuniorSalespersonSalary
+Senior salesperson is paid Rs. 400 a week, and a junior salesperson is paid Rs. 275 a week.  Write a program that accepts as input a salesperson’s status in the character variable status. IF  status is ‘s’ or ‘S’ the senior person’s salary should be displayed; if status is ‘j’ or ‘J’, the junior  person’s salary should be displayed, otherwise display error message.
